@@ -35,8 +35,7 @@ h4.country {color:hsl(75, 94%, 57%) ;
 
 p.profile {color:hsl(0, 0%, 85%) ;
           font-style: italic;
-          font-family:Inter, sans-serif;
-          font-weight: 900}
+          font-family:Inter, sans-serif;}
 
 button {background-color:hsl(0, 0%, 20%);
         color: hsl(0, 0%, 100%);
